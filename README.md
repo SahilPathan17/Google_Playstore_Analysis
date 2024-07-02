@@ -1,12 +1,13 @@
 # Google_Playstore_Analysis
 
----
 
 <br>
 <p>
 
 
 This project aims to analyze data from the Google Playstore to uncover patterns and insights about various applications. The analysis involves cleaning and processing the data, handling missing values, and performing exploratory data analysis (EDA).
+
+---
 
 ## Project Overview
 
