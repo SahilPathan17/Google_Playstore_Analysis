@@ -1,11 +1,7 @@
 # Google_Playstore_Analysis
 <br>
 <p>
-  Certainly! Here's a well-structured README section for your Google Playstore Analysis project:
 
----
-
-# Google Playstore Analysis
 
 This project aims to analyze data from the Google Playstore to uncover patterns and insights about various applications. The analysis involves cleaning and processing the data, handling missing values, and performing exploratory data analysis (EDA).
 
@@ -78,5 +74,4 @@ This analysis of the Google Playstore dataset provides insights into how various
 
 ---
 
-This README section summarizes the main points of your code and provides an overview of the analysis process, making it easier for others to understand and replicate your work.
 </p>
